@@ -134,4 +134,4 @@ Features:
 
 ## ⭐ Acknowledgement
 
-Dataset provided by **Maven Analytics (Fuzzy Factor
+Dataset provided by **Maven Analytics (Fuzzy Factory)
