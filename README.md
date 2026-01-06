@@ -1,5 +1,4 @@
 # Business-Intelligence-Analysis-of-E-commerce-Sales-and-User-Behavior
-# E-commerce Conversion Funnel and Revenue Performance Analysis
 
 ## 📌 Project Overview
 
